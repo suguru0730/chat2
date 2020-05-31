@@ -170,7 +170,7 @@ $(function() {
 
   function MyFunction32(arg) { //webGL側から呼び出される　遠隔PCにメッセージを送る
 
-    console.log("This is called by HTML");
+    //console.log("This is called by HTML");
 
     var str_axes = [-arg[0], arg[1], 0, 0, 0, 0,];
     var str_buttons = [arg[2], arg[3], 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,];

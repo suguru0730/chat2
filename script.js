@@ -22,7 +22,7 @@ $(function() {
       
     };
   
-    setInterval(log_timer, 50);
+    setInterval(log_timer, 10);
 
   ////////////////////////////////////////////////////
 

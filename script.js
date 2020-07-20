@@ -31,7 +31,7 @@ $(function() {
   setTimeout(function(){
 
     // Initiate a call!
-    const roomName = 'tiri';
+    const roomName = 'user';
     if (!roomName) {
       return;
     }

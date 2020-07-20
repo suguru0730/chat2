@@ -202,7 +202,7 @@ $(function() {
 
         str_y = str_y;
       
-      }else if (str_y != 0 ){
+      }else if (str_y == 0 ){
 
         t = 0;
         str_y = t;

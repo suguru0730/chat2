@@ -195,7 +195,7 @@ $(function() {
       
       if (str_y != 0 && t <= str_y ){
 
-        t = t + 0.002;
+        t = t + 0.1:
         str_y = t;
         
       }else if (t >= str_y ){
